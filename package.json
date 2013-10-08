@@ -1,6 +1,6 @@
 {
     "name":        "grunt-merge-json-to-js",
-    "homepage":    "http://github.com/jasonrose/grunt-merge-json",
+    "homepage":    "http://github.com/shutterfly/grunt-merge-json",
     "description": "Grunt Task for Merging Multiple JSON Files into a js var",
     "version":     "0.1.0",
     "license":     "MIT",
@@ -20,10 +20,10 @@
     ],
     "repository": {
         "type": "git",
-        "url":  "git://github.com/jasonrose/grunt-merge-json.git"
+        "url":  "git://github.com/shutterfly/grunt-merge-json.git"
     },
     "bugs": {
-        "url":  "http://github.com/jasonrose/grunt-merge-json/issues"
+        "url":  "http://github.com/shutterfly/grunt-merge-json/issues"
     },
     "main": "Gruntfile.js",
     "devDependencies": {
